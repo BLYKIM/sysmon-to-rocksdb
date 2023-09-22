@@ -1,0 +1,12 @@
+es_url = "http://localhost:9200"
+es_id = "elastic"
+es_pw = "*2SoZGJcf6RZoteDX-JH"
+
+indices = [".ds-winlogbeat-8.8.2-2023.08.27-000001"]
+
+start_time = "2023-08-25T15:00:00.000Z"
+end_time = "2023-09-05T15:00:00.000Z"
+
+query_size = 100
+
+save_location = "/home/aiuser/Elastic/csv_0906/csvs"
